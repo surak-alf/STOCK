@@ -1,0 +1,5 @@
+yfinance
+TA-Lib
+pandas
+matplotlib
+plotly
