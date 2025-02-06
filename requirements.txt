@@ -1,5 +1,8 @@
-yfinance
-TA-Lib
 pandas
+numpy
 matplotlib
 plotly
+yfinance
+statsmodels
+tensorflow
+scikit-learn
