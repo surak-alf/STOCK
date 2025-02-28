@@ -37,7 +37,7 @@ The models were trained and evaluated using the collected stock data.  The predi
 
 The results indicate that LSTM and Prophet models significantly outperform the ARIMA model in predicting stock prices for all four companies.  This highlights the effectiveness of deep learning and specialized time-series models for capturing the complex patterns in stock market data. (Further details and visualizations should be included in the repository or linked to).
 
-## 5.  Interactive Dashboard (If applicable)
+## 5.  Interactive Dashboard
 
 (If a dashboard is implemented, describe its features and how to use it. Include a link to the dashboard if hosted online).  The interactive dashboard provides users with the ability to:
 
