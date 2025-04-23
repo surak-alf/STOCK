@@ -1,6 +1,8 @@
 pandas
 numpy
 matplotlib
+seaborn
+prophet
 plotly
 yfinance
 statsmodels
