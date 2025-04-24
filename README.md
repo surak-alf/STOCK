@@ -65,10 +65,17 @@ The results indicate that LSTM and Prophet models significantly outperform the A
 
 ## 5.  Interactive Dashboard   
 
-## 6.  Repository Contents
+## 6. Repository Contents
 
-*   `data/`: Contains the collected stock data (or scripts to collect the data).
-*   `models/`: Contains the code for training and evaluating the ARIMA, LSTM, and Prophet models.
-*   `scripts/`: Contains helper scripts for data processing or visualization.
-*   `README.md`: This file.
-*   `requirements.txt`: List of required Python packages. (Important!)
+* `.github/workflows/`: Contains workflow files for GitHub Actions.
+* `.vscode/`: Contains VS Code specific settings and configurations.
+* `Data/`: Contains the collected stock data (or scripts to collect the data). 
+* `images/`: Contains image files used in the README and potentially elsewhere.
+* `notebooks/`: Contains Jupyter notebooks used for data analysis, model development, or exploration.
+* `scripts/`: Contains helper scripts for data processing or visualization.
+* `src/`: Contains the main source code for your project, potentially organized into modules.
+* `tests/`: Contains files for testing your code.
+* `.gitattributes`: Specifies attributes for files in your Git repository.
+* `.gitignore`: Specifies intentionally untracked files that Git should ignore.
+* `README.md`: This file.
+* `requirements.txt`: List of required Python packages. (Important!)
