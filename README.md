@@ -63,9 +63,7 @@ The results indicate that LSTM and Prophet models significantly outperform the A
 </table>
 
 
-## 5.  Interactive Dashboard   
-
-## 6. Repository Contents
+## 5. Repository Contents
 
 * `.github/workflows/`: Contains workflow files for GitHub Actions.
 * `.vscode/`: Contains VS Code specific settings and configurations.
