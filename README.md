@@ -36,9 +36,43 @@ The models were trained and evaluated using the collected stock data.  The predi
 ## 4. Results (Summary)
 
 The results indicate that LSTM and Prophet models significantly outperform the ARIMA model in predicting stock prices for all four companies.  This highlights the effectiveness of deep learning and specialized time-series models for capturing the complex patterns in stock market data. 
+**Model Performance Comparison for Alibaba (BABA)**
 ![Model Comparison for BABA](images/baba_prediction.png)
 
 (Further details and visualizations should be included in the repository or linked to).
+
+## 4. Results (Summary)
+
+The results indicate that LSTM and Prophet models significantly outperform the ARIMA model in predicting stock prices for all four companies. This highlights the effectiveness of deep learning and specialized time-series models for capturing the complex patterns in stock market data.
+
+**Model Performance Comparison**
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Alibaba (BABA)</strong><br>
+      <img src="images/baba_prediction.png" alt="Model Comparison for BABA">
+    </td>
+    <td align="center">
+      <strong>Johnson & Johnson (JNJ)</strong><br>
+      <img src="images/jnj_prediction.png" alt="Model Comparison for JNJ">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>NVIDIA (NVDA)</strong><br>
+      <img src="images/nvda_prediction.png" alt="Model Comparison for NVDA">
+    </td>
+    <td align="center">
+      <strong>Toyota Motor Corporation (TM)</strong><br>
+      <img src="images/tm_prediction.png" alt="Model Comparison for TM">
+    </td>
+  </tr>
+</table>
+
+**(Further details and visualizations should be included in the repository or linked to.)**
+
+
 
 ## 5.  Interactive Dashboard
 
